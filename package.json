@@ -1,0 +1,9 @@
+{
+  "name": "persisted-object",
+  "version": "0.0.1",
+  "description": "Like a regular js object, only it doesn't go away when you refresh.",
+  "main": "index.js",
+  "repository": "",
+  "author": "Bryan Goldstein <brysgo@gmail.com>",
+  "dependencies": {  }
+}

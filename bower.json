@@ -1,0 +1,20 @@
+{
+  "name": "persisted-object",
+  "description": "Like a regular js object, only it doesn't go away when you refresh.",
+  "main": "index.js",
+  "authors": [
+    "Bryan Goldstein <brysgo@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "localstorage"
+  ],
+  "homepage": "https://www.brysgo.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

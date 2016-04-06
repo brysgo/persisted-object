@@ -25,6 +25,8 @@ When you first load this script, it will say `Setting bar!!!` in the console.
 
 Reload the page and it will say `Bar is: baz`.
 
+## Install
+
 Install it with npm:
 
 `npm install persisted-object`
@@ -33,4 +35,7 @@ or bower:
 
 `bower install persisted-object`
 
-See the list of [supported browsers](http://caniuse.com/#feat=proxy).
+### Warning
+This package makes use of the ES6 Proxy object, which is only supported in [these browsers](http://caniuse.com/#feat=proxy).
+
+For other browsers you can try using [this polyfill](https://github.com/GoogleChrome/proxy-polyfill).

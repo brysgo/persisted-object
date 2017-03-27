@@ -27,6 +27,8 @@ Reload the page and it will say `Bar is: baz`.
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brysgo/persisted-object.svg)](https://greenkeeper.io/)
+
 Install it with npm:
 
 `npm install persisted-object`
